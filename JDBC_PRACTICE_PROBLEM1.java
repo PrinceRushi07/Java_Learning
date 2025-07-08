@@ -10,7 +10,7 @@ public class JDBC_PRACTICE_PROBLEM1 {
 		
 		String  url = "jdbc:mysql://localhost:3306/grocerry";
 		String user = "root";
-		String password = "lomtehrushikesh@123";
+		String password = "your_password";
 		
 		try {
 			
