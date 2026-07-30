@@ -172,7 +172,7 @@ Java_Learning/
 **AI/ML Engineer | Java Developer | Computer Vision | Generative AI**
 
 🔗 **LinkedIn:**  
-https://www.linkedin.com/in/hrushikesh-lomte/
+https://www.linkedin.com/in/hrushikesh-lomte-b2a611281/
 
 💻 **GitHub:**  
 https://github.com/PrinceRushi07
